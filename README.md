@@ -1,29 +1,83 @@
-# OpenLEO-DSS 🛰️
+# OpenLEO-DSS
 
-**An independent open-source research initiative for transparent and explainable orbital safety in LEO.**
+**OpenLEO-DSS** is an independent research initiative exploring how open technologies and explainable artificial intelligence can improve transparency and accountability in orbital safety analysis within Low Earth Orbit (LEO).
+The project investigates how transparent analytical tools can help reduce the growing **information asymmetry in global space situational awareness**, where critical safety insights are often produced by opaque or proprietary systems.
+OpenLEO-DSS aims to contribute to a future where orbital safety knowledge is treated as a **shared public good** rather than a restricted institutional capability.
+
 ---
 
-## 📌 Overview
-OpenLEO-DSS is an automated decision support system designed to enhance Space Situational Awareness (SSA). It provides a transparent "intelligence layer" to identify and prioritize collision risks in Low Earth Orbit, moving away from opaque "black-box" models.
+# Project Context
 
-This project is the original work of **Şahizer Aksoy** and constitutes the core of a formal Master’s Thesis in Management Information Systems.
+Low Earth Orbit is becoming increasingly congested. As satellite constellations grow, reliable and transparent risk assessment becomes critical not only for operators but also for researchers, regulators, and emerging space actors.
+Today, much of the analytical infrastructure used to evaluate orbital risks operates through **closed and non-transparent systems**, creating barriers for independent verification and broader participation.
+OpenLEO-DSS explores an alternative approach based on:
+- Open analytical frameworks  
+- Explainable machine learning methods  
+- Transparent interpretation of orbital safety risks  
+The long-term goal is to support a more **accountable and collaborative ecosystem for orbital safety governance**.
 
-## 🚀 Strategic Goals
-- **Data Democratization:** Bridging the "Data Divide" for emerging space nations and independent researchers.
-- **Explainable Transparency:** Transforming complex orbital telemetry into actionable, human-readable insights.
-- **Sustainable Architecture:** A decentralized "Bring Your Own API" model ensuring long-term technical viability without high hosting costs.
+---
 
-## 🛠️ Status & Availability
-- **Research Phase:** The system has been successfully validated against significant historical solar events.
-- **Release Note:** This repository is currently in the active validation phase. Full source code and documentation will be released under the **Apache License 2.0**.
+# Current Project Status
 
-## 📜 Licensing
-Licensed under the Apache License 2.0 – ensuring space safety remains a shared public good.
+OpenLEO-DSS is currently in an **active research and prototype development phase** as part of a Master's thesis in Management Information Systems.
+The core research prototype has been developed to explore transparent analytical approaches for orbital safety assessment. During this validation phase, the repository focuses on documenting the project's vision, research direction, and governance principles.
 
-## 👥 Roles & Governance
-* **Lead Researcher & Developer:** Şahizer Aksoy (Karamanoğlu Mehmetbey University, Karaman Danışmanlık Ltd. Şti.)
-* **Academic Advisor:** Dr. Mehmet Cabir Akkoyunlu (Karamanoğlu Mehmetbey University)
-* **Mentorship:** Supported by the **T3 Foundation Young Researcher Program** (Non-financial mentorship)
-* **Community Management & Outreach:** Bekir Sıtkı Aksoy (Karaman Danışmanlık Ltd. Şti.)
+---
 
-**Contact:** [info@karamandanismanlik.com.tr](mailto:info@karamandanismanlik.com.tr), [sahizer@karamandanismanlik.com.tr](mailto:sahizer@karamandanismanlik.com.tr)
+# Open Research Approach
+
+OpenLEO-DSS is designed as a **public-interest research initiative** with the intention of releasing its core components as open-source software.
+The project aims to contribute to the broader ecosystem of open space sustainability tools by promoting:
+- Transparent analytical methods  
+- Explainable risk interpretation  
+- Collaborative research practices  
+The repository will gradually evolve to include open documentation and research artifacts supporting these goals.
+
+---
+
+# Governance and Contributors
+
+**Lead Researcher & Developer**  
+Şahizer Aksoy  
+Master’s Student, Karamanoğlu Mehmetbey University
+Management Consultant, Karaman Danışmanlık Ltd.Sti.
+
+**Academic Advisor**  
+Dr. Mehmet Cabir Akkoyunlu  
+Department of Data Science and Analytics  
+Karamanoğlu Mehmetbey University  
+
+**Research Mentorship (Non-Financial)**  
+T3 Foundation – Young Researcher Program  
+
+**Operations and Community Outreach**  
+Bekir Sıtkı Aksoy  
+Karaman Danışmanlık Ltd. Sti.
+
+---
+
+# Development Roadmap
+
+The OpenLEO-DSS project is progressing through several research and development milestones:
+- Academic validation and thesis completion  
+- Research dissemination through international conferences and publications  
+- Expansion of the prototype research framework  
+- Gradual open-source release of research components  
+- Development of accessible tools supporting transparent orbital safety analysis
+These milestones aim to transition OpenLEO-DSS from a research prototype into a sustainable open research initiative.
+
+---
+
+# License
+
+OpenLEO-DSS is released under the **Apache License 2.0**.
+This license supports open collaboration while ensuring that contributions remain accessible for public-interest research and technological development.
+
+---
+
+# Contact
+
+For research collaboration or project inquiries:
+
+[info@karamandanismanlik.com.tr](mailto:info@karamandanismanlik.com.tr), [sahizer@karamandanismanlik.com.tr](mailto:sahizer@karamandanismanlik.com.tr)
