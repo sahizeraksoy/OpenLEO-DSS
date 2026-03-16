@@ -20,10 +20,10 @@ This project is the original work of **Şahizer Aksoy** and constitutes the core
 ## 📜 Licensing
 Licensed under the Apache License 2.0 – ensuring space safety remains a shared public good.
 
-👥 Roles & Governance
-Lead Researcher & Developer: Şahizer Aksoy, Karamanoğlu Mehmetbey University, Karaman Danışmanlık Ltd. Şti.
-Academic Advisor: Dr. Mehmet Cabir Akkoyunlu, Karamanoğlu Mehmetbey University 
-Mentorship: Supported by the T3 Foundation Young Researcher Program (Non-financial mentorship)
-Community Management & Outreach: Bekir Sıtkı Aksoy, Karaman Danışmanlık Ltd. Şti.
+## 👥 Roles & Governance
+* **Lead Researcher & Developer:** Şahizer Aksoy (Karamanoğlu Mehmetbey University, Karaman Danışmanlık Ltd. Şti.)
+* **Academic Advisor:** Dr. Mehmet Cabir Akkoyunlu (Karamanoğlu Mehmetbey University)
+* **Mentorship:** Supported by the **T3 Foundation Young Researcher Program** (Non-financial mentorship)
+* **Community Management & Outreach:** Bekir Sıtkı Aksoy (Karaman Danışmanlık Ltd. Şti.)
 
-Contact: info@karamandanismanlik.com.tr, sahizer@karamandanismanlik.com.tr
+**Contact:** [info@karamandanismanlik.com.tr](mailto:info@karamandanismanlik.com.tr), [sahizer@karamandanismanlik.com.tr](mailto:sahizer@karamandanismanlik.com.tr)
