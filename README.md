@@ -41,7 +41,7 @@ The repository will gradually evolve to include open documentation and research 
 **Lead Researcher & Developer**  
 Şahizer Aksoy  
 Master’s Student, Karamanoğlu Mehmetbey University
-Management Consultant, Karaman Danışmanlık Ltd.Sti.
+Founder & Management Consultant, Karaman Danışmanlık Ltd.
 
 **Academic Advisor**  
 Dr. Mehmet Cabir Akkoyunlu  
@@ -53,7 +53,7 @@ T3 Foundation – Young Researcher Program
 
 **Operations and Community Outreach**  
 Bekir Sıtkı Aksoy  
-Karaman Danışmanlık Ltd. Sti.
+Karaman Danışmanlık Ltd.
 
 ---
 
