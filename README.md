@@ -41,7 +41,6 @@ The repository will gradually evolve to include open documentation and research 
 **Lead Researcher & Developer**  
 Şahizer Aksoy  
 Master’s Student, Karamanoğlu Mehmetbey University
-Founder & Management Consultant, Karaman Danışmanlık Ltd.
 
 **Academic Advisor**  
 Dr. Mehmet Cabir Akkoyunlu  
