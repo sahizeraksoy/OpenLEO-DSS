@@ -38,7 +38,7 @@ The repository will gradually evolve to include open documentation and research 
 
 # Governance and Contributors
 
-OpenLEO-DSS is developed as an independent research initiative led by the project author.  
+OpenLEO-DSS is developed as an independent research initiative led by the project leader.  
 The individuals and institutions listed below are acknowledged for their respective roles and contributions in academic guidance, mentorship, and operational support.
 
 **Project Leadership & Lead Developer**  
