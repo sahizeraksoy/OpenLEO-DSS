@@ -47,11 +47,11 @@ Master’s Student, Karamanoğlu Mehmetbey University
 Management Consultant, Karaman Danışmanlık Ltd.  
 Role: Leads all development activities, including technical implementation and the open-source release process.
 
-**Academic Advisor**  
+**Thesis Supervisor**  
 Dr. Mehmet Cabir Akkoyunlu  
 Department of Data Science and Analytics  
 Karamanoğlu Mehmetbey University  
-Role: Provides academic supervision and scientific guidance within the scope of the Master's thesis.
+Role: Provides institutional thesis supervision within the scope of the Master's degree program.
 
 **Research Mentorship**  
 T3 Foundation – Young Researcher Program  
