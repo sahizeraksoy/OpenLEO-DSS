@@ -38,21 +38,29 @@ The repository will gradually evolve to include open documentation and research 
 
 # Governance and Contributors
 
-**Lead Researcher & Developer**  
+OpenLEO-DSS is developed as an independent research initiative led by the project author.  
+The individuals and institutions listed below are acknowledged for their respective roles and contributions in academic guidance, mentorship, and operational support.
+
+**Project Leadership & Lead Developer**  
 Şahizer Aksoy  
-Master’s Student, Karamanoğlu Mehmetbey University
+Master’s Student, Karamanoğlu Mehmetbey University  
+Management Consultant, Karaman Danışmanlık Ltd.  
+Role: Leads all development activities, including technical implementation and the open-source release process.
 
 **Academic Advisor**  
 Dr. Mehmet Cabir Akkoyunlu  
 Department of Data Science and Analytics  
 Karamanoğlu Mehmetbey University  
+Role: Provides academic supervision and scientific guidance within the scope of the Master's thesis.
 
-**Research Mentorship (Non-Financial)**  
+**Research Mentorship**  
 T3 Foundation – Young Researcher Program  
+Role: Supports the research process through mentorship and training in space sciences.
 
 **Operations and Community Outreach**  
 Bekir Sıtkı Aksoy  
-Karaman Danışmanlık Ltd.
+Management Consultant, Karaman Danışmanlık Ltd.  
+Role: Supports outreach and operational aspects of the project.
 
 ---
 
