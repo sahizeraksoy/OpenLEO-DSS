@@ -88,3 +88,6 @@ This license supports open collaboration while ensuring that contributions remai
 For research collaboration or project inquiries:
 
 [info@karamandanismanlik.com.tr](mailto:info@karamandanismanlik.com.tr), [sahizer@karamandanismanlik.com.tr](mailto:sahizer@karamandanismanlik.com.tr)
+
+# Note: The codebase will be progressively released as development milestones are completed. The first full open-source release is planned for Q3 2026.
+
