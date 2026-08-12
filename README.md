@@ -1,4 +1,4 @@
-## Acknowledgments
+# Acknowledgments
 
 This research is supported by the **T3 Foundation** (Türkiye), which provided comprehensive financial support for the author's participation in the 77th International Astronautical Congress (IAC 2026, Antalya). The T3 Foundation's commitment to advancing space technologies and empowering emerging researchers has been instrumental in bringing OpenLEO-DSS from concept to international presentation.
 
