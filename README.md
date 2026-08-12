@@ -1,3 +1,10 @@
+## Acknowledgments
+
+This research is supported by the **T3 Foundation** (Türkiye), which provided comprehensive financial support for the author's participation in the 77th International Astronautical Congress (IAC 2026, Antalya). The T3 Foundation's commitment to advancing space technologies and empowering emerging researchers has been instrumental in bringing OpenLEO-DSS from concept to international presentation.
+
+We gratefully acknowledge the T3 Foundation's vision of democratizing access to space science and their belief in open-source, transparent approaches to orbital safety challenges.
+
+
 # OpenLEO-DSS
 
 **OpenLEO-DSS** is an independent research initiative exploring how open technologies and explainable artificial intelligence can improve transparency and accountability in orbital safety analysis within Low Earth Orbit (LEO).
